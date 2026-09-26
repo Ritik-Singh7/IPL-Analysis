@@ -51,7 +51,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/Ritik-Singh7/ipl-2022-analysis.git
+git clone https://github.com/Ritik-Singh7/IPL-Analysis.git
 cd ipl-2022-analysis
 pip install -r requirements.txt
 jupyter notebook ipl_2022_analysis.ipynb
